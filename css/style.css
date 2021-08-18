@@ -1,0 +1,28 @@
+body{
+    background-color: darkcyan;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#container{
+    height: 300px;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: darkorchid;
+}
+
+#num{
+    text-align: center;
+    color: darkorange;
+}
+
+.btn{
+    height: 100px;
+    width: 100px;
+}
